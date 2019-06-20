@@ -13,5 +13,10 @@ public class FirstClass {
         System.out.println("字符串");
         System.out.println("字符串");
         System.out.println("字符串");
+        System.out.println("字符串");
+    }
+    public void test(){
+        int i = 0;
+        i++;
     }
 }
