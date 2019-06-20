@@ -19,5 +19,6 @@ public class FirstClass {
         int i = 0;
         i++;
         System.out.println(i);
+        System.out.println("hehe");
     }
 }
